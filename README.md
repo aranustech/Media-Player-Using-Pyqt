@@ -33,6 +33,8 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+Ketika Anda menjalankan dan memilih file video, tampilan akan muncul seperti yang terlihat pada gambar di bawah ini.
+![image](icon\result.png)
 
 ## # Mendesain UI
 

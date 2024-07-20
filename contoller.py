@@ -195,7 +195,6 @@ class Controller(QMainWindow):
                 self.next_frame_signal()
 
     def show_image_result(self):
-        print(self.width_image)
         if self.image is not None:
             self.show_image_to_label(self.ui.label, self.image, self.width_image)
 
