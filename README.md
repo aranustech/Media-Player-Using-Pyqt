@@ -34,7 +34,8 @@ pip install -r requirements.txt
 python main.py
 ```
 Ketika Anda menjalankan dan memilih file video, tampilan akan muncul seperti yang terlihat pada gambar di bawah ini.
-![image](icon\result.png)
+
+![image](https://github.com/user-attachments/assets/225884d2-0db6-48a3-ac19-4f7a9e37d4b5)
 
 ## # Mendesain UI
 
