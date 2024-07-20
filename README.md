@@ -80,5 +80,5 @@ Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file [LICENSE](LICENSE) untu
 Temukan informasi lainya dari chanel Aranus Technology
 
 [![Website Article](https://img.shields.io/badge/Website--blue)](https://aranustech.co.id/news)
-[![Discord Channel](https://img.shields.io/badge/Discord-Channel-blue?logo=discord&logoColor=white)](https://discord.gg/qneXR8u9)
+[![Discord Channel](https://img.shields.io/badge/Discord-Channel-blue?logo=discord&logoColor=white)](https://discord.gg/YhwenmN7)
 [![Linkedin pages](https://img.shields.io/badge/Likedin-page-blue)](https://www.linkedin.com/company/aranus-technology)
